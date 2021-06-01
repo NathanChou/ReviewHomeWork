@@ -1,0 +1,6 @@
+framework module Pods_ReviewHomework_ReviewHomeworkUITests {
+  umbrella header "Pods-ReviewHomework-ReviewHomeworkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
